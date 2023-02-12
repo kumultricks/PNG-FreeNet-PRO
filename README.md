@@ -1,6 +1,6 @@
 
 
-KumulVPN PRO uses existing connection protocols such as SSH2.0.
+PNG FreeNet PRO uses existing connection protocols such as SSH2.0.
 
 All traffic generated between the client and the server is protected with SSH2.0.
 
