@@ -8,4 +8,5 @@ Through the application it is possible to customise the start of the connection 
 
 This is very useful for bypassing restrictions imposed by your  internet service providers or any network that you are using during the connection.
 
-https://github.com/kumultricks/PNG-FreeNet-PRO/releases/tag/v4.1.6
+⚡DOWNLOAD LATEST APK HERE
+https://github.com/kumultricks/PNG-FreeNet-PRO/releases
